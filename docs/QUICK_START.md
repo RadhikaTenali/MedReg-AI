@@ -14,8 +14,8 @@ This guide will help you get started with MedReg AI in just a few minutes. You'l
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/RadhikaTenali/MedReg-ai.git
-cd MedReg-ai
+git clone https://github.com/RadhikaTenali/MedReg-AI.git
+cd MedReg-AI
 ```
 
 ### Step 2: Set Up Environment
@@ -294,7 +294,7 @@ Solution: Split large documents into smaller sections
 - **Documentation**: [Full Documentation](docs/)
 - **API Reference**: [API Documentation](docs/api_docs/)
 - **Examples**: [Usage Examples](examples/)
-- **Issues**: [GitHub Issues](https://github.com/RadhikaTenali/MedReg-ai/issues)
+- **Issues**: [GitHub Issues](https://github.com/RadhikaTenali/MedReg-AI/issues)
 
 ---
 

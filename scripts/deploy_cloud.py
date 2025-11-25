@@ -31,7 +31,7 @@ class CloudDeployer:
     def _get_default_config(self) -> Dict[str, Any]:
         """Get default deployment configuration."""
         return {
-            'project_name': 'MedReg-ai',
+            'project_name': 'MedReg-AI',
             'version': '1.0.0',
             'cloud_provider': 'gcp',
             'gcp': {

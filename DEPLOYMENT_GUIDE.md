@@ -51,7 +51,7 @@ streamlit run streamlit_app.py
 
 1. **Build and deploy:**
    ```bash
-   gcloud run deploy MedReg-ai \
+   gcloud run deploy MedReg-AI \
      --source . \
      --platform managed \
      --region us-central1 \
@@ -61,16 +61,16 @@ streamlit run streamlit_app.py
 2. **Set environment variables (API Key):**
    ```bash
    # Option A: Direct environment variable
-   gcloud run deploy MedReg-ai \
+   gcloud run deploy MedReg-AI \
      --set-env-vars GOOGLE_AI_API_KEY=your_actual_api_key_here
 
    # Option B: Using Cloud Run Secrets (more secure)
-   gcloud run deploy MedReg-ai \
+   gcloud run deploy MedReg-AI \
      --set-secrets GOOGLE_AI_API_KEY=google-ai-key:latest
    ```
 
 3. **Access your deployed app:**
-   - Cloud Run will provide a URL like: `https://MedReg-ai-xxxxx-uc.a.run.app`
+   - Cloud Run will provide a URL like: `https://MedReg-AI-xxxxx-uc.a.run.app`
 
 ### Option 2: Streamlit Cloud (Easiest - Free)
 
@@ -107,7 +107,7 @@ streamlit run streamlit_app.py
    echo "web: streamlit run streamlit_app.py --server.port=$PORT --server.address=0.0.0.0" > Procfile
    
    # Deploy
-   heroku create MedReg-ai
+   heroku create MedReg-AI
    git push heroku main
    ```
 
@@ -368,7 +368,7 @@ If something goes wrong:
 ## 📞 Support
 
 ### Getting Help:
-- Check the [GitHub issues](https://github.com/RadhikaTenali/MedReg-ai/issues)
+- Check the [GitHub issues](https://github.com/RadhikaTenali/MedReg-AI/issues)
 - Review the documentation
 - Contact the development team
 

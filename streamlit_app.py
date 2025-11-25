@@ -692,7 +692,7 @@ def main():
     st.markdown("""
     <div style='text-align: center; color: #666;'>
         <p>🏥 MedReg AI | Built for Build & Blog Marathon 2025 | 
-        <a href='https://github.com/RadhikaTenali/MedReg-ai' target='_blank'>GitHub</a></p>
+        <a href='https://github.com/RadhikaTenali/MedReg-AI' target='_blank'>GitHub</a></p>
     </div>
     """, unsafe_allow_html=True)
 

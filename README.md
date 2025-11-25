@@ -127,8 +127,8 @@ MedRed-AI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RadhikaTenali/MedReg-ai.git
-cd MedReg-ai
+git clone https://github.com/RadhikaTenali/MedReg-AI.git
+cd MedReg-AI
 ```
 
 ### 2. Set Up Environment
@@ -287,8 +287,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: Comprehensive guides in the `/docs` folder
-- **Issues**: [GitHub Issues](https://github.com/RadhikaTenali/MedReg-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/RadhikaTenali/MedReg-ai/discussions)
+- **Issues**: [GitHub Issues](https://github.com/RadhikaTenali/MedReg-AI/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RadhikaTenali/MedReg-AI/discussions)
 
 ---
 
