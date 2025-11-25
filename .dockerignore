@@ -51,7 +51,6 @@ tests/
 demo_results/
 demo_results_medical/
 examples/
-sample_demo_data/
 temp_*.xml
 temp_*.docx
 *.excel
