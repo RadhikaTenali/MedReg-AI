@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Tests
+tests/
+*.pytest_cache/
+
+# Demo/Example files
+demo_results/
+demo_results_medical/
+examples/
+sample_demo_data/
+temp_*.xml
+temp_*.docx
+*.excel
+healthcare_test_cases_*.json
+healthcare_test_cases_*.csv
+traceability_matrix_*.xlsx
+
+# Notebooks
+*.ipynb
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Build artifacts
+.devcontainer/
